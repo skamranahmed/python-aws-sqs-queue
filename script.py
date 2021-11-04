@@ -50,7 +50,7 @@ for i in range(no_of_batches):
     logging.info(f"Processing batch no. {i+1}, messages count: {len(pipeline_items)}")
     # send multiple messages to the queue in a single call
     response = queue.send_messages(Entries=[item for item in pipeline_items])
-    
-    logging.info(f"Response from SQS: {response}")
+
+    logging.info(f"Response from SQS for batch no. {i+1}: {response}")
 
     start_index = end_index + 1
