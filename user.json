@@ -1,0 +1,119 @@
+{
+    "Users:": [
+            {
+                "UserName": "Max Payne",
+                "UserId": "max.payne@dg.imagine",
+                "RegisterationCode": "291020#MP1@imagine"
+            },
+            {
+                "UserName": "Jason Bourne",
+                "UserId": "jason.bourne@dg.imagine",
+                "RegisterationCode": "291021#JB2@imagine"
+            },
+            {
+                "UserName": "Bruce Geller",
+                "UserId": "bruce.geller@dg.imagine",
+                "RegisterationCode": "291021#003@imagine"
+            },
+            {
+                "UserName": "John Watson",
+                "UserId": "john.watson@dg.imagine",
+                "RegisterationCode": "22BS21#JV1@imagine"
+            },
+            {
+                "UserName": "Natasha Romanoff",
+                "UserId": "natasha.romanoff@dg.imagine",
+                "RegisterationCode": "331122#NR1@iamgine"
+            },
+            {
+                "UserName": "Hercule Poirot",
+                "UserId": "hercule.poirot@dg.imagine",
+                "RegisterationCode": "291021#HB1@imagine"
+            },
+            {
+                "UserName": "John Wick",
+                "UserId": "john.wick@dg.imagine",
+                "RegisterationCode": "777999#JW0@imagine"
+            },
+            {
+                "UserName": "Wesley Gibson",
+                "UserId": "wesley.gibson@dg.imagine",
+                "RegisterationCode": "22O121#WG1@imagine"
+            },
+            {
+                "UserName": "Agent Smith",
+                "UserId": "agent.smith@dg.imagine",
+                "RegisterationCode": "424242#AS0@imagine"
+            },
+            {
+                "UserName": "John Connor",
+                "UserId": "john.connor@dg.imagine",
+                "RegisterationCode": "414124#JC2@imagine"
+            },
+            {
+                "UserName": "Indiana Jones",
+                "UserId": "indiana.jones@dg.imagine",
+                "RegisterationCode": "I23456#IJ1@imagine"
+            },
+            {
+                "UserName": "Smolder Bravestone",
+                "UserId": "smolder.bravestone@dg.imagine",
+                "RegisterationCode": "123456#SB2@imagine"
+            },
+            {
+                "UserName": "Garry Unwin",
+                "UserId": "garry.unwin@dg.imagine",
+                "RegisterationCode": "449090#GU1@imag!ne"
+            },
+            {
+                "UserName": "Jack Ryan",
+                "UserId": "jack.ryan@dg.imagine",
+                "RegisterationCode": "334411#JRD@imagine"
+            },
+            {
+                "UserName": "John McClane",
+                "UserId": "john.mcclane@dg.imagine",
+                "RegisterationCode": "112233#JM3@imagine"
+            },
+            {
+                "UserName": "Elliot Alderson",
+                "UserId": "elliot.alderson@dg.imagine",
+                "RegisterationCode": "654321#EA1@imagine"
+            },
+            {
+                "UserName": "Walter O'Brien",
+                "UserId": "walter.obrien@dg.imagine",
+                "RegisterationCode": "000001#WOB@imgaine"
+            },
+            {
+                "UserName": "Jim Caviezel",
+                "UserId": "jim.caviezel@dg.imagine",
+                "RegisterationCode": "090909#JC3@imagine"
+            },
+            {
+                "UserName": "Neal Caffrey",
+                "UserId": "neal.caffrey@imagine",
+                "RegisterationCode": "123456#NC@imagine"
+            },
+            {
+                "UserName": "Walter White",
+                "UserId": "walter.white@dg.imagine",
+                "RegisterationCode": "123321#WWW@imagine"
+            },
+            {
+                "UserName": "Benjamin Gates",
+                "UserId": "benjamin.gates@dg.imagine",
+                "RegisterationCode": "12O345@BG#imagine"
+            },
+            {
+                "UserName": "Jake Peralta",
+                "UserId": "jake.peralta@dg.imagine",
+                "RegisterationCode": "999999#JP9@imagine"
+            },
+            {
+                "UserName": "Raymond Reddington",
+                "UserId": "raymond.reddington@dg.imagine",
+                "RegisterationCode": "345678#RRR@imagine"
+            }
+    ]
+}
